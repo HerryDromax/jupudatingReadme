@@ -1,2 +1,18 @@
-# jupudatingReadme
-Its just a filtered readme file of my App "Jupudating" . The file is uploaded for HPE recruiters so that they can look at my technical writing skills. Jupudating is a live production dating app which I single handedly built over 4 months for Indian students.  Checkout more at jupudating.com 
+# Jupudating README
+
+## Project Overview
+
+This is a focused README for my app, **Jupudating**, shared specifically for HPE recruiters to review my technical writing style.
+
+Jupudating is a live production dating app for Indian students that I built single-handedly over four months.
+
+## About the Project
+
+- **App Name:** Jupudating  
+- **Status:** Live production app  
+- **Audience:** Indian students  
+- **Development:** Built independently in 4 months
+
+## Learn More
+
+Visit: **jupudating.com**
