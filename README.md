@@ -1,5 +1,5 @@
 # jupudatingReadme
-Its just a filtered readme file of my App "Jupudating" . The file is uploaded for HPE recruiters so that they can look at my technical writing skills. Jupudating is a live production dating app which I single handedly built over 4 months for Indian students. The app got more than 400+ downloads on Google Play Store within the 1st month of release. Checkout more at jupudating.com 
+Its just a filtered readme file of my App "Jupudating" . The file is uploaded for HPE recruiters so that they can look at my technical writing skills. Jupudating is a live production dating app which I single handedly built over 4 months for Indian students. The app got more than 400+ downloads on [Google Play Store](https://play.google.com/store/apps/details?id=com.jupudating.app&hl=en_IN) within the 1st month of release. Checkout more at **[jupudating.com](https://jupudating.com/)** 
 
 ---
 
